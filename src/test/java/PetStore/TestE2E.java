@@ -30,7 +30,7 @@ public class TestE2E {
     String  BASE_PATH = "v2/pet/";
 
 
-    //Test 1:
+    // Test 1:
     @Test(priority = 0)
     @Description("Get Request for reading all available pets")
 
