@@ -23,6 +23,7 @@ Create the following automated API tests for PetStore-service
 - To run the TestNG tests use the command: mvn clean test.
 - To generate allure report use the command: allure serve allure-results.
 - To view the report, use the following command: allure open allure-report.
+- To run in Jenkins CI, Enter the repository URL and credentials and bulid steps then save and apply then bulid.
 
 Folder Structure src/test/java: src/test/resources: FileReader for PetToUpload.json
 Testng File is "testngPetStore.xml"
@@ -36,3 +37,6 @@ Testng File is "testngPetStore.xml"
 ![image](https://github.com/user-attachments/assets/a8a116b4-3cf8-42c7-9728-8ffb25df5af2)
 
 ![image](https://github.com/user-attachments/assets/63668060-ecb0-4390-a9f4-ecfec0c5530c)
+
+![image](https://github.com/user-attachments/assets/78b3ac26-3918-4b2d-8ab7-21624c4b74b4)
+
